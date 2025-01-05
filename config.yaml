@@ -1,0 +1,16 @@
+seed: 0
+medical_phrases: ./data/test_phrases.csv
+
+verify:
+  k_r: 1 # Number of top-k relationships to match
+  k_c: 1 # Number of top-k concepts to match for origin and target
+  check_negatives: True # Set to True to check for negative relationships (inverts the matches and checks both directions)
+  check_exact_relationships: True # Set to True to check for exact matches for relationships (defaults to k_r=1 if there is an exact match)
+  check_exact_concepts: True # Set to True to check for exact matches for concept strings (defaults to k_c=1 if there is an exact match)
+
+knowledge_graph:
+  ground_truth: ./data/test_graph.json
+  vector_db_root: ./data/knowledge_graph_demo
+  embedding_model: medcpt # medcpt, bioclinicalbert, bertbase
+  embedding_batch_size: 512
+

@@ -1,0 +1,6 @@
+origin,relationship,target,result,valid_phrase
+ibuprofen,may treat,stomach pain,True,non steroidal anti inflammatory drugs may treat abdominal pain
+ibuprofen,may treat,stomach ulcers,False,
+ibuprofen,cannot treat,stomach ulcers,True,
+omeprazole,may treat,peptic ulcer disease,True,proton pump inhibitors may treat peptic ulcer disease
+omeprazole,may diagnose,peptic ulcer disease,True,endoscopy may diagnose peptic ulcer disease

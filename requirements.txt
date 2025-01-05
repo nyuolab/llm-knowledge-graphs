@@ -1,0 +1,7 @@
+torch==2.0.1
+transformers==4.37.2
+chromadb==0.4.22
+negspacy==1.0.4
+omegaconf==2.3.0
+pandas==2.2.0
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.3/en_core_sci_md-0.5.3.tar.gz

@@ -1,0 +1,77 @@
+[
+    {
+        "origin": "non steroidal anti inflammatory drugs",
+        "relationship": "has adverse effect",
+        "target": "stomach ulcers"
+    },
+    {
+        "origin": "non steroidal anti inflammatory drugs",
+        "relationship": "may treat",
+        "target": "abdominal pain"
+    },
+    {
+        "origin": "proton pump inhibitors",
+        "relationship": "may treat",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "alcohol use",
+        "relationship": "associated with",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "peptic ulcer disease",
+        "relationship": "may cause",
+        "target": "stomach ulcers"
+    },
+    {
+        "origin": "stomach ulcers",
+        "relationship": "may cause",
+        "target": "abdominal pain"
+    },
+    {
+        "origin": "peptic ulcer disease",
+        "relationship": "may cause",
+        "target": "abdominal pain"
+    },
+    {
+        "origin": "urea breath test",
+        "relationship": "may diagnose",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "h pylori",
+        "relationship": "may cause",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "endoscopy",
+        "relationship": "may diagnose",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "peptic ulcer disease",
+        "relationship": "may cause",
+        "target": "gastrointestinal bleeding"
+    },
+    {
+        "origin": "zollinger-ellison syndrom",
+        "relationship": "may cause",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "anxiety",
+        "relationship": "associated with",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "caffeine",
+        "relationship": "associated with",
+        "target": "peptic ulcer disease"
+    },
+    {
+        "origin": "antibiotics",
+        "relationship": "may treat",
+        "target": "peptic ulcer disease"
+    }
+]
