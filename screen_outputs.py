@@ -1,4 +1,5 @@
-# Daniel Alber, 2023
+# NYU OLAB, 2023
+
 """
 Inference-time screening defense against harm using ontology-enhanced review of medical named entities.
 
