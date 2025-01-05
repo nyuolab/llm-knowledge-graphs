@@ -8,4 +8,4 @@ Code repository for our paper, ["Medical Large Language Models are Vulnerable to
 5. Install requirements using pip: `pip install -r requirements.txt`
 6. Run the script using the toy dataset: `python screen_outputs.py`
 
-Note: Although our code is released under an MIT license, the implemented embedding models possess their own licensing agreements.
+Note: The implemented embedding models possess their own licensing agreements.
