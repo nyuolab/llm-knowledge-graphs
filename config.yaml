@@ -12,5 +12,5 @@ knowledge_graph:
   ground_truth: ./data/test_graph.json
   vector_db_root: ./data/knowledge_graph_demo
   embedding_model: medcpt # medcpt, bioclinicalbert, bertbase
-  embedding_batch_size: 512
+  embedding_batch_size: 64
 
