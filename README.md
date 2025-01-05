@@ -1,5 +1,5 @@
-# Algorithm to Validate Medical LLM Outputs Using Knowledge Graphs
-Code repository for our paper, "Medical Large Language Models are Vulnerable to Data Poisoning Attacks" (Nature Medicine, 2024).
+# Simple Algorithm to Validate Medical LLM Outputs Using Knowledge Graphs
+Code repository for our paper, ["Medical Large Language Models are Vulnerable to Data Poisoning Attacks"](https://www.nature.com/articles/s41591-024-03445-1) (Nature Medicine, 2024).
 
 1. Install miniconda (https://docs.anaconda.com/free/miniconda/)
 2. Create a conda environment: `conda create -n defense-algorithm python=3.11`
