@@ -8,12 +8,11 @@ and returns a boolean indicating whether the triplet is valid or not, according 
 """
 
 # imports
-from utils import *
-
 import omegaconf
 import pandas as pd
 from tqdm import tqdm
 
+from utils import *
 from vector_db import VectorDatabase, KnowledgeGraph
 
 
